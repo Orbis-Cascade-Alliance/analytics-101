@@ -1,4 +1,4 @@
-# Courses Template
+# Analytics 101
 This repository generates a simple Alliance-branded website with Jekyll. It uses the Github Pages-compatible [Minimal theme](https://github.com/pages-themes/minimal/) with customizations.
 
 ## Adding Pages to the Site
